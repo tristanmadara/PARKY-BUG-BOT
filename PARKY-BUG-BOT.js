@@ -1,10 +1,10 @@
-//base by Jean Parker 
+//base Ashuna bot md
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//YouTube: @jacemillerstark@gmail.com 
+//Instagram: jacestark 
+//Telegram: t.me/jace stark Thesr
+//GitHub: @tristanmadara
+//WhatsApp: +241065292295
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
